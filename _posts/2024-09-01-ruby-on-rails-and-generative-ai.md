@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Ruby On Rails And Generative AI"
-date: 2024-09-01
+date: 2024-08-30
 categories: "Ruby on Rails"
 tags: [Ruby, Generative AI, Ruby on Rails, Development]
 ---
