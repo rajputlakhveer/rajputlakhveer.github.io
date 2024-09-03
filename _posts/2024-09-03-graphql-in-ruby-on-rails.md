@@ -10,7 +10,7 @@ tags: [Ruby, Graphql, Ruby on Rails, Development]
 
 GraphQL is a powerful query language for your API, allowing clients to request exactly what they need, and nothing more. In this blog, we'll explore how to implement GraphQL in a Ruby on Rails application, making it simple and easy to understand with examples and emojis!
 
-<img src="'/assets/images/graphql.png' | relative_url" alt="drawing" style="width:200px;"/>
+<img src="/assets/images/graphql.png" alt="drawing" style="width:80%;"/>
 
 ### 🧐 What is GraphQL?
 
