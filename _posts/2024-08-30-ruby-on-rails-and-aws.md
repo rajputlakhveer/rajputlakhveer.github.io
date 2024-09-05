@@ -12,18 +12,7 @@ Amazon Web Services (AWS) provides a comprehensive cloud computing platform that
 
 In this blog, we'll dive deep into some commonly used AWS services with Ruby on Rails, highlighting their use cases and providing examples of how to integrate them into your Rails app. Let's begin! 🔥
 
-### Table of Contents
-1. **Amazon S3 (Simple Storage Service)**
-2. **Amazon EC2 (Elastic Compute Cloud)**
-3. **Amazon RDS (Relational Database Service)**
-4. **AWS Lambda**
-5. **Amazon CloudFront**
-6. **AWS Elastic Beanstalk**
-7. **Amazon SNS (Simple Notification Service)**
-8. **Amazon Redshift**
-9. **AWS CodeDeploy**
-
----
+![Description of the image]({{ '/assets/images/rails.png' | relative_url }})
 
 ## 1. **Amazon S3 (Simple Storage Service)** 🗃️
 
