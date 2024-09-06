@@ -4,6 +4,7 @@ title: "Ruby On Rails And AWS"
 date: 2024-09-04
 categories: "Ruby on Rails"
 tags: [Ruby, AWS. Amazon, EC2, Redshift, S3, Ruby on Rails, Development]
+image: '/assets/images/rails.png'
 ---
 
 # Leveraging AWS Services with Ruby on Rails 🚀
