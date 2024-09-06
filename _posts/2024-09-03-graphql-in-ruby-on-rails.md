@@ -4,6 +4,7 @@ title: "Graphql in Ruby On Rails"
 date: 2024-09-03
 categories: "Ruby on Rails"
 tags: [Ruby, Graphql, Ruby on Rails, Development]
+image: '/assets/images/graphql.png'
 ---
 
 ### 🚀 Getting Started with GraphQL in Ruby on Rails
