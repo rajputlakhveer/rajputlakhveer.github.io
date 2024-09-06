@@ -49,7 +49,7 @@ layout: default
   {% for post in site.posts %}
   <div class="row blog-item px-3 pb-5">
     <div class="col-md-5">
-      <img class="img-fluid mb-4 mb-md-0" src="{{ '/assets/img/blog-1.jpg' | relative_url }}" alt="Image">
+      <img class="img-fluid mb-4 mb-md-0" src="{{ post.image | default: '/assets/img/blog-1.jpg' | relative_url }}" alt="Image">
     </div>
     <div class="col-md-7">
       {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
