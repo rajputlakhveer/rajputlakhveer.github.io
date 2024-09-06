@@ -4,6 +4,7 @@ title: "Rails 7.2 Release: Everything You Need to Know – Major Features 🚀"
 date: 2024-08-30
 categories: "Ruby on Rails"
 tags: [Rails 7.2, Ruby on Rails, Development]
+image: '/assets/images/rails.jpg'
 ---
 
 The latest version of Rails is here - **Rails 7.2**! This release brings a host of new features and improvements that will make developing applications even more efficient and enjoyable. Let's explore the major updates, complete with examples to help you get started. 🎉
