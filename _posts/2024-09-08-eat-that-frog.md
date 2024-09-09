@@ -18,7 +18,7 @@ Let’s break down each of these techniques with clear explanations, examples, a
 ### 1. **Set the Table 🍽️**
 Before diving into your tasks, set clear goals and be specific about what you need to accomplish. Defining your goals eliminates ambiguity, which helps avoid procrastination. Set life, yearly, monthly, weekly, daily, and even hourly goals clear and specific.
 
-![Description of the image]({{ '/assets/images/eat_that_frog/1.jpg' | relative_url }})
+<img src="/assets/images/eat_that_frog/1.jpg" alt="drawing" style="width:80%;"/>
 
 🔍 **Example**: If your goal is to write a report, break it down: “Write the introduction by 10 AM, cover three main points by noon, and finish by 2 PM.”
 
