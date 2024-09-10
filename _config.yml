@@ -18,13 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sharing Values
+title: "Insights by Lakhveer Singh Rajput"
+description: "Explore blogs by Lakhveer Singh Rajput covering Ruby on Rails, AI, and more."
+keywords: "Lakhveer Singh Rajput, Blogs, Ruby on Rails, AI, JavaScript, Web Development"
+author: "Lakhveer Singh Rajput"
+image: "/assets/images/rails.jpg"
 email: rajputlakhveer@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Sharing insights on Ruby on Rails development, reflections on books I read,
-  my personal philosophy on life and success, and the latest trends in
-  technology. This site is a blend of technical knowledge, literary summaries,
-  and thoughtful musings.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kunwar_lakhveer
