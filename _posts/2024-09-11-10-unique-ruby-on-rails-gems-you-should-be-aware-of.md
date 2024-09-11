@@ -7,8 +7,6 @@ tags: [Ruby, Gems, Ruby on Rails, Development]
 image: '/assets/images/ruby_gem.png'
 ---
 
-## **10 Unique Ruby on Rails Gems You Should Be Aware Of 💎🚀**
-
 Ruby on Rails (RoR) is known for its rich ecosystem of gems that extend its functionality. Whether you're building a complex web application or a simple website, gems make your job easier by providing solutions to common problems. While Rails ships with many built-in features, there are some unique gems that can significantly enhance your development process. In this blog, we’ll explore 10 unique Ruby on Rails gems that you should definitely be aware of.
 
 ![Description of the image]({{ '/assets/images/ruby_gem.png' | relative_url }})
