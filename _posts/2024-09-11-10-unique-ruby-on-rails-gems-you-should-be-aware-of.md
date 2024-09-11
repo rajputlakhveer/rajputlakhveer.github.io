@@ -4,6 +4,7 @@ title: "10 Unique Ruby on Rails Gems You Should Be Aware Of"
 date: 2024-09-11
 categories: "Ruby on Rails"
 tags: [Ruby, Gems, Ruby on Rails, Development]
+image: '/assets/images/ruby_gem.png''
 ---
 
 ## **10 Unique Ruby on Rails Gems You Should Be Aware Of 💎🚀**
