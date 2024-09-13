@@ -14,8 +14,7 @@ image: '/assets/images/cicd.png'
 
 In this detailed blog, we'll explore various **CI/CD tools**, their key features, and how you can utilize them to build an efficient pipeline.
 
-![Description of the image]({{ '/assets/images/cicd.png' | relative_url }})
-
+<img src="/assets/images/cicd.png" alt="drawing" style="width:80%;"/>
 ---
 
 ### 📌 **What is CI/CD?**
