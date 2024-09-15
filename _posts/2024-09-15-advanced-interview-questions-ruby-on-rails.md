@@ -2,7 +2,7 @@
 layout: home
 title: "Advanced Interview Questions Ruby On Rails"
 date: 2024-09-15
-categories: "Book Review"
+categories: "Ruby On Rails"
 tags: [Ruby On Rails, Interview, Questions, Answeres]
 ---
 
