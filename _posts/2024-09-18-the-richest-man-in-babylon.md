@@ -123,7 +123,3 @@ You're earning ₹60,000 as a software developer. 💻 You take an online cloud 
 The principles in *The Richest Man in Babylon* are timeless and applicable to anyone aiming for financial freedom. By mastering these simple yet powerful lessons — saving, investing, controlling your expenses, and planning for the future — you can become the "richest person" in your own Babylon. 🌟
 
 💡 *"Start thy purse to fattening and let your wealth multiply!"*
-
----
-
-Feel free to add more ideas if you like, and let me know if you’d like to refine anything further! 😊
