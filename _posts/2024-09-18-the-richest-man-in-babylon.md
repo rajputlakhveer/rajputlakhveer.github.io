@@ -45,8 +45,7 @@ You earn ₹1,00,000, but ₹80,000 goes toward unnecessary shopping and luxury 
 
 #### 3. **Make Thy Gold Multiply (Invest Wisely) 📈**
 
-![2](https://github.com/user-attachments/assets/eeb17956-8c07-4b83-86da-08d29dd78147)
-
+<img src="https://github.com/user-attachments/assets/eeb17956-8c07-4b83-86da-08d29dd78147" alt="2" width="80%">
 
 **The Idea:**
 Idle money doesn’t grow. Invest in ventures that offer steady returns so your wealth multiplies over time.
@@ -76,7 +75,7 @@ You’re tempted to invest ₹50,000 in a friend’s “get-rich-quick” crypto
 
 #### 5. **Make of Thy Dwelling a Profitable Investment (Own Your Home) 🏡**
 
-![4](https://github.com/user-attachments/assets/26771f1c-7bde-4d0f-a6fa-5ba9de316373)
+<img src="https://github.com/user-attachments/assets/26771f1c-7bde-4d0f-a6fa-5ba9de316373" alt="2" width="80%">
 
 **The Idea:**
 Owning your own home provides long-term security and builds wealth over time. (But as you read Rich Dad Poor Dad not just home but any long-term security includes gold, real estate, rental income, etc.)
@@ -91,7 +90,7 @@ Instead of paying ₹30,000 in rent, you take out a mortgage for a home with a �
 
 #### 6. **Ensure a Future Income (Plan for Retirement) 👵👴**
 
-![4](https://github.com/user-attachments/assets/563a4f18-c9c9-4182-984e-5f73da8d52e4)
+<img src="https://github.com/user-attachments/assets/563a4f18-c9c9-4182-984e-5f73da8d52e4" alt="2" width="80%">
 
 **The Idea:**
 Save today to ensure you’re secure in the future when you can no longer work.
