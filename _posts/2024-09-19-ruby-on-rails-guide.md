@@ -14,7 +14,7 @@ In the fast-paced world of software development, writing clean, maintainable, an
 
 ### 1. **Follow the Rails Conventions 📏**
 
-![naming-convention](https://github.com/user-attachments/assets/089efa8e-a321-47bc-a70d-80ff5079c87f)
+<img src="https://github.com/user-attachments/assets/089efa8e-a321-47bc-a70d-80ff5079c87f" alt="2" width="80%">
 
 Ruby on Rails is built around the principle of **Convention over Configuration** (CoC). Rails provides a set of conventions that allow you to write less code while maintaining clarity and structure. Here are some common conventions to follow:
 
@@ -23,7 +23,7 @@ Ruby on Rails is built around the principle of **Convention over Configuration**
 
 ### 2. **Keep Methods Short and Single-Responsibility 🧑‍💻**
 
-![1_UhvaCg9qOCYZyDJZh180hQ](https://github.com/user-attachments/assets/587799d5-e6e2-4709-80e8-be5e50be78fa)
+<img src="https://github.com/user-attachments/assets/587799d5-e6e2-4709-80e8-be5e50be78fa" alt="2" width="80%">
 
 A hallmark of clean code is **single-responsibility**. Each method should perform only one task. Avoid the temptation to cram multiple functionalities into a single method. 
 
@@ -50,7 +50,7 @@ end
 
 ### 3. **DRY (Don't Repeat Yourself) Code ✂️**
 
-![1_lQlLv4AJZysvATx1AEIpUQ](https://github.com/user-attachments/assets/8f93b942-47fe-42f7-895a-3dd4f9102b2d)
+<img src="https://github.com/user-attachments/assets/8f93b942-47fe-42f7-895a-3dd4f9102b2d" alt="2" width="80%">
 
 A key principle in Ruby on Rails development is to avoid repetition. **DRY code** leads to fewer bugs and a cleaner codebase. If you find yourself repeating code, it’s time to extract methods, use modules, or find Rails helpers that reduce duplication.
 
@@ -100,7 +100,7 @@ end
 
 ### 5. **Adhere to SOLID Principles 🏗️**
 
-![solid](https://github.com/user-attachments/assets/e029a079-0ccc-490e-8660-cbbf82662f22)
+<img src="https://github.com/user-attachments/assets/e029a079-0ccc-490e-8660-cbbf82662f22" alt="2" width="80%">
 
 SOLID principles provide a robust foundation for writing maintainable and scalable code. In a Rails context, here’s how you can apply some of these principles:
 
@@ -123,7 +123,7 @@ end
 
 ### 6. **Test Your Code Thoroughly 🧪**
 
-![4f8ab9993567bb23ad72faad88a8af8cc9fd8f00-1000x659](https://github.com/user-attachments/assets/3c66e6cc-d13a-4302-8974-e7981e1e2d64)
+<img src="https://github.com/user-attachments/assets/3c66e6cc-d13a-4302-8974-e7981e1e2d64" alt="2" width="80%">
 
 Clean code isn’t just about formatting or structure—it’s also about reliability. Writing tests ensures that your code behaves as expected and helps you catch potential issues early.
 
@@ -144,7 +144,7 @@ end
 
 ### 7. **Leverage Rails Linters and Formatters 🚨**
 
-![0_CrAOhEU7X8MaTmHn](https://github.com/user-attachments/assets/57cfbfcf-b9d2-4146-b7fd-c9f2c3cfe51a)
+<img src="https://github.com/user-attachments/assets/57cfbfcf-b9d2-4146-b7fd-c9f2c3cfe51a" alt="2" width="80%">
 
 To maintain clean code consistently across your team, use tools like **Rubocop**. It enforces a wide range of coding standards and helps you spot issues like unused variables, incorrect indentation, and other style offenses. Set up `.rubocop.yml` for custom rules tailored to your project.
 
