@@ -1,9 +1,9 @@
 ---
 layout: home
-title: "The Richest Man in Babylon"
+title: "Machine Learning"
 date: 2024-09-22
-categories: "Ruby on Rails"
-tags: [Ruby, Optimization, Ruby on Rails, Development]
+categories: "Machine Learning"
+tags: [Machine Learning, AI, Deep Learning, NLP]
 image: 'https://github.com/user-attachments/assets/a99cf0b9-432a-4761-8d0c-8d8dc30eec01'
 ---
 
