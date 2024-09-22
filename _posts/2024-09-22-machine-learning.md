@@ -7,7 +7,7 @@ tags: [Machine Learning, AI, Deep Learning, NLP]
 image: 'https://github.com/user-attachments/assets/a99cf0b9-432a-4761-8d0c-8d8dc30eec01'
 ---
 
-## Introduction to Machine Learning 🌟
+## Machine Learning — Concepts, Tools and Usage🌟
 
 Machine Learning (ML) is a branch of Artificial Intelligence (AI) that allows computers to learn from data and make decisions without being explicitly programmed. Unlike traditional programming, where rules are predefined, machine learning uses algorithms to identify patterns in data and improve over time with more information.
 
