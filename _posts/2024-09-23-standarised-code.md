@@ -4,12 +4,14 @@ title: "Standardized Code"
 date: 2024-09-23
 categories: "Code Better"
 tags: [Standardized Code, SOLID, SLAP, SRP, DRY]
-image: 'https://github.com/user-attachments/assets/93e60335-baad-4cf4-997b-0351b46e50db'
+image: 'https://github.com/user-attachments/assets/fa2182b4-54e0-4ca6-9062-d0322fb849c9'
 ---
 
 ### All Basic Principles for Standardized Code: Code Like a Pro with Examples 🚀
 
 In the world of software development, writing clean, standardized, and professional code isn't just an ideal—it's essential. Following coding principles not only improves readability but also makes debugging easier, ensures maintainability, and promotes team collaboration. In this blog, we'll explore the key principles every developer should follow to write code like a pro! 💻
+
+![1](https://github.com/user-attachments/assets/fa2182b4-54e0-4ca6-9062-d0322fb849c9)
 
 ---
 
