@@ -96,6 +96,47 @@ puts product.discounted_price  # This object gets a custom method that others wo
 
 ---
 
+#### 4. Supercharging Method Calls with `send` 📡
+
+One of the most useful MetaProgramming tools in Ruby is the `send` method. It allows you to call any method dynamically, even if its name is stored in a variable. This can be extremely helpful when you want to invoke methods based on user input, configuration data, or external APIs without hardcoding method names. 🚀
+
+```ruby
+class User
+  attr_accessor :name, :email
+
+  def initialize(name, email)
+    @name = name
+    @email = email
+  end
+
+  def greet
+    "Hello, #{@name}!"
+  end
+end
+
+user = User.new("Lakhveer", "lakhveer@example.com")
+method_name = :greet
+puts user.send(method_name)   # Dynamically calls the greet method
+```
+
+In the example above, instead of directly calling `user.greet`, we use `user.send(:greet)`. The `send` method allows for flexible and dynamic invocation of methods. You can pass method names as symbols or strings and even send arguments to the method.
+
+*📝 Pro Tip*: You can also use `send` to access private methods. This can be both powerful and dangerous, so use it carefully!
+
+```ruby
+class Secret
+  private
+  def hidden_message
+    "The treasure is buried under the oak tree!"
+  end
+end
+
+secret = Secret.new
+puts secret.send(:hidden_message)   # Accessing a private method
+```
+
+*⚠️ Warning*: While this feature can be useful, accessing private methods with `send` should be done cautiously, as it can bypass important encapsulation and security measures.
+
 ### Leveraging MetaProgramming for the Future 🔮
 MetaProgramming isn't just about fancy tricks — it's about keeping your code clean, scalable, and adaptable. By employing it effectively in your Ruby on Rails applications, you reduce the risk of technical debt while staying prepared for future feature additions. Whether it’s dynamically creating methods or intercepting missing ones, MetaProgramming gives you that extra layer of control.
 
