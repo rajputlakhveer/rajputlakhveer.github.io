@@ -7,6 +7,7 @@ tags: [Ratan Tata, Tata Steel, Jaguar, Tata Trust]
 image: 'https://github.com/user-attachments/assets/1d3585f3-dfc8-42e4-9947-e7ed5f0404a6'
 ---
 
+
 # Ratan Tata: The Philanthropist Who Never Lived for Himself
 
 ## Rest in Peace, A Legend Lives On 🕊️
