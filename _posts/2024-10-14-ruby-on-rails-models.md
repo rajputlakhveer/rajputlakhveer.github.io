@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Ruby On Rails Models"
-date: 2024-10-10
+date: 2024-10-14
 categories: "Ruby On Rails"
 tags: [Ruby On Rails, Ruby, MVC, Models, Tips, Hacks]
 image: 'https://github.com/user-attachments/assets/718be4dd-dfaa-4ea1-8ffe-d5c6b7a05e46'
