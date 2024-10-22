@@ -2,8 +2,8 @@
 layout: home
 title: "ReactJs Code Optimization and Standardization"
 date: 2024-10-22
-categories: "Ruby On Rails"
-tags: [Ruby On Rails, Ruby, MVC, Models, Tips, Hacks]
+categories: "ReactJs"
+tags: [ReactJS, Javascript, JS, Code Optimization, Tips, Standardization]
 image: 'https://github.com/user-attachments/assets/2124eb7a-fc8c-4094-b4c6-24309b03cce7'
 ---
 
