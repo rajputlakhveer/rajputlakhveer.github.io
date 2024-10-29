@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Ruby On Rails Hidden Methods"
-date: 2024-10-30
+date: 2024-10-29
 categories: "Ruby On Rails"
 tags: [Ruby On Rails, Ruby, Methods, Hidden, Unique, Tips]
 image: 'https://github.com/user-attachments/assets/ebb7ed8e-2177-430e-a282-030b8d7662e9'
