@@ -60,10 +60,9 @@ layout: default
       <div class="d-flex mb-3">
         <small class="mr-2 text-muted"><i class="fa fa-calendar-alt"></i>{{ post.date | date: date_format }}</small>
         <small class="mr-2 text-muted"><i class="fa fa-folder"></i> {{ post.categories }} </small>
-        <small class="mr-2 text-muted"><i class="fa fa-comments"></i> 15 Comments</small>
       </div>
       <p>
-        {{ post.tags }}
+        {{ post.tags | join: ", " }}
       </p>
       <a class="btn btn-link p-0" href="{{ post.url | relative_url }}">Read More <i class="fa fa-angle-right"></i></a>
     </div>
