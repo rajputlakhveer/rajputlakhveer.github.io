@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Mastering Error Handling in Ruby on Rails"
-date: 2024-02-05
+date: 2025-02-05
 categories: "Ruby On Rails"
 tags: [Ruby On Rails, Ruby, Error Handling, Code Better, Programming]
 image: 'https://github.com/user-attachments/assets/05f330ad-7d54-4bc1-b5a1-c5ed79eb3969'
