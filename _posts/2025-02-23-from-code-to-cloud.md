@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "From Code to Cloud"
-date: 2025-02-24
+date: 2025-02-23
 categories: "DevOps"
 tags: [Website, Application, Hosting, Cloud, DevOps]
 image: 'https://github.com/user-attachments/assets/3746323b-8a03-4ad0-bf26-4eecd464d208'
