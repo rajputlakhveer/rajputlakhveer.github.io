@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "The Future of Cloud Computing"
-date: 2025-03-29
+date: 2025-03-28
 categories: "Cloud Computing"
 tags: [Cloud, Cloud Computing, AI, Future, Quantum]
 image: 'https://github.com/user-attachments/assets/33dc07ba-3d20-41a3-afc3-5074192f810b'
