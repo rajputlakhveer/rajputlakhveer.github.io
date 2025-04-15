@@ -4,7 +4,7 @@ title: "Dynamic SQL Queries Unleashed"
 date: 2025-04-15
 categories: "SQL"
 tags: [SQL, Queries, Dynamic, Optimization, MySQL]
-image: 'https://github.com/user-attachments/assets/0161d34e-8646-4580-a908-eb24926f22a2'
+image: 'https://github.com/user-attachments/assets/3e13ab8c-9924-430e-9bf2-13b9a9162ddc'
 ---
 
 # 🚀 **Dynamic SQL Queries Unleashed: The Complete Guide to Power, Performance & Security** 🧠⚡  
@@ -12,6 +12,8 @@ image: 'https://github.com/user-attachments/assets/0161d34e-8646-4580-a908-eb249
 Dynamic SQL allows developers to **build and execute SQL statements at runtime**, offering unmatched flexibility. However, with great power comes great responsibility—**security risks, performance pitfalls, and debugging challenges** must be managed carefully.  
 
 This **ultimate guide** covers **advanced features, optimization secrets, and critical best practices** to master dynamic SQL like a pro!  
+
+![02](https://github.com/user-attachments/assets/3e13ab8c-9924-430e-9bf2-13b9a9162ddc)
 
 ---
 
