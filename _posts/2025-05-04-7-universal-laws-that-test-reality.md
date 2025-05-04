@@ -1,4 +1,4 @@
-![1657191871635](https://github.com/user-attachments/assets/3e0cd43b-21b6-4b22-8e51-07f3c1e1ddb2)---
+---
 layout: home
 title: "7 Universal Laws That Test Reality"
 date: 2025-05-04
