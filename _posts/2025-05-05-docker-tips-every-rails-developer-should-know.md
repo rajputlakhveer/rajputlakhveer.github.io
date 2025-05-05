@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "10 Docker Tips Every Rails Developer Should Know"
+title: "Docker Tips Every Rails Developer Should Know"
 date: 2025-05-05
 categories: "DevOps"
 tags: [Docker, DevOps, CICD, Deployment, Features]
