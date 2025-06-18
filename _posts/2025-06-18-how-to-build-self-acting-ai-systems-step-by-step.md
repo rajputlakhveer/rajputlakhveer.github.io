@@ -2,8 +2,8 @@
 layout: home
 title: "How to Build Self-Acting AI Systems Step-by-Step"
 date: 2025-06-18
-categories: "Success"
-tags: [Habits, Success, Motivation, Inspiration, Psychology, Science]
+categories: "Artificial Intelligence"
+tags: [Artificial Intelligence, AI, ML, Machine Learning, Agentic AI]
 image: 'https://github.com/user-attachments/assets/2b21f27a-247d-4380-8ca8-f6a9a0929d7e'
 ---
 
