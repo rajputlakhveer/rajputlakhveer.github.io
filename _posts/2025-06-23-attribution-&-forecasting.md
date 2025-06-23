@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Attribution & Forecasting"
-date: 2025-06-05
+date: 2025-06-23
 categories: "Data Analysis"
 tags: [Attribution, Forecasting, Data, Data Analysis, Sales, Science]
 image: 'https://github.com/user-attachments/assets/1309206f-55ab-4561-ba66-48181e88944c'
