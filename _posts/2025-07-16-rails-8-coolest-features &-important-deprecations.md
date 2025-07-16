@@ -4,12 +4,14 @@ title: "Rails 8 Coolest Features & Important Deprecations"
 date: 2025-07-16
 categories: "Ruby On Rails"
 tags: [Ruby on Rails, Rails 8, Features, Deprecations, Ruby, Release]
-image: 'https://github.com/user-attachments/assets/17e3cfab-1410-4820-a461-fd59f1cf750a'
+image: 'https://github.com/user-attachments/assets/bdfeff4c-08a7-43bc-9720-d7b0d2dfc7d6'
 ---
 
 # 🚀 **Rails 8 Is Here! Coolest Features & Important Deprecations You Need to Know** 🔥
 
 Ruby on Rails 8 has finally dropped! 🎉 It comes packed with powerful enhancements, smarter defaults, and some long-overdue cleanups. Whether you’re a seasoned developer or a curious newbie, it’s essential to stay up-to-date with the framework’s direction. Let's explore the **cool new features**, **important deprecations**, and **bonus tips** to master Rails 8 like a pro! 💎
+
+<img width="1792" height="1024" alt="oobmm3cbqhfqpa0arjpq8poi4ewj" src="https://github.com/user-attachments/assets/bdfeff4c-08a7-43bc-9720-d7b0d2dfc7d6" />
 
 ---
 
