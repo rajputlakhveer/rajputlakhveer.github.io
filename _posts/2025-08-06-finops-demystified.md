@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "FinOps Demystified"
-date: 2025-07-06
+date: 2025-08-06
 categories: "FinOps"
 tags: [FinOps, DevOps, Tools, Optimization, Concepts, Terminologies]
 image: 'https://github.com/user-attachments/assets/c6f6c4c6-950f-4f52-9aa2-85a5a0f9e579'
