@@ -2,8 +2,8 @@
 layout: home
 title: "Apache Kafka Demystified"
 date: 2025-08-14
-categories: "Success"
-tags: [Habits, Success, Motivation, Inspiration, Psychology, Science]
+categories: "DevOps"
+tags: [DevOps, Software Development, Apache kafka, CICD, Programming]
 image: 'https://github.com/user-attachments/assets/a5a31711-3df2-48ec-bf9c-7db72e54fdd0'
 ---
 
