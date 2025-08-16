@@ -211,7 +211,3 @@ Whether you’re a **beginner starting with a single EC2 instance** or an **ente
 
 So, next time you think of spinning up servers, remember:
 👉 **Don’t click, code it with Terraform!** 💻⚡
-
----
-
-✅ What do you think — should I also prepare a **LinkedIn caption with hashtags** for this blog?
