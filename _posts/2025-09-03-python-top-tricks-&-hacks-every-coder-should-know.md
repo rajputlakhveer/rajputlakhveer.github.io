@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "python-top-tricks-&-hacks-every-coder-should-know"
+title: "Python Top Tricks & Hacks Every Coder Should Know"
 date: 2025-09-03
 categories: "Python"
 tags: [Python, Tricks, Hacks, Coder, Programming, Coding]
