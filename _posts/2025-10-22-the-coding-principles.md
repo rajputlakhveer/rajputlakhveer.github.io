@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "The Coding Principles"
-date: 2025-06-05
+date: 2025-10-22
 categories: "Programming"
 tags: [Programming, Coding, Principles, Developer, Software Engineer, OOPs]
 image: 'https://github.com/user-attachments/assets/fec94da0-c658-4d80-8dd2-761b9aa3e791'
