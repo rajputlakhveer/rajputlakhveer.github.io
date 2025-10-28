@@ -174,5 +174,3 @@ If you break the routine, do a quick reset: 5 push-ups + 5-minute reflection. Th
 Motivation starts you. Discipline finishes you. Build rules, not moods. Make your future self impossible to ignore by showing up daily in tiny, non-negotiable ways. Over time, those tiny bricks become an unbreakable wall.
 
 Go do one small thing now — even two minutes. When you come back, you’ll already be more disciplined than before. 💥
-
-Want a ready-made 7-day habit tracker sheet or a sample implementation-intention template I can create for you (customized to your goal)? I can draft one now. ✍️🙂
