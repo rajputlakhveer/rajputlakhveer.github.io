@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Kubernetes Unleashed"
-date: 2025-12-03
+date: 2025-12-02
 categories: "DevOps"
 tags: [DevOps, Kubernetes, Tools, Deployment, CICD, Software Development]
 image: 'https://github.com/user-attachments/assets/5407ae96-4649-41d4-a27c-c83a7762fca7'
