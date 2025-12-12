@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Unlearn the Middle-Class Money Mindset"
+title: "Unlearn the Middle Class Money Mindset"
 date: 2025-12-13
 categories: "Finance"
 tags: [Money, Finance, Financial Freedom, Mindset, Psychology, Principle, Habit]
