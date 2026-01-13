@@ -3,7 +3,7 @@ layout: home
 title: "Getting Rid of the Digital Cage"
 date: 2026-01-13
 categories: "Digital Detox"
-tags: [Digital Detox, Success, Distraction, Mindset, Digital Cage, Focus]
+tags: [Digital Detox, Success, Distraction, Mindset, Cage, Focus]
 image: 'https://github.com/user-attachments/assets/5ed607be-3843-438d-ac61-765e9e91be5d'
 ---
 
