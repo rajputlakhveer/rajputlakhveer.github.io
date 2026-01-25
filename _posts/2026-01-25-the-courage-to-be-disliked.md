@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "The Courage to Be Disliked"
-date: 2026-01-26
+date: 2026-01-25
 categories: "Book Summary"
 tags: [Book, SelfHelp, Self Improvement, Personal Growth, Psychology, Principles, Concepts]
 image: 'https://github.com/user-attachments/assets/10be6f25-ab9f-4256-9ff8-9113b78ddc3b'
