@@ -269,12 +269,3 @@ CI/CD pipelines are the **engine of modern DevOps**. They:
 Mastering CI/CD means mastering **modern software delivery**.
 
 Whether you’re a solo developer or an enterprise team, building a smart pipeline will transform how you ship software. 💪
-
----
-
-If you want, I can generate:
-
-✅ An infographic-style summary image
-✅ A LinkedIn caption with hashtags
-✅ A real-world CI/CD YAML example (GitHub/Jenkins/GitLab)
-✅ A Ruby on Rails specific CI/CD pipeline guide
