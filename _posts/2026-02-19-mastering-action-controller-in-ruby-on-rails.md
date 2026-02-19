@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Mastering Action Controller in Ruby on Rails"
-date: 2026-02-26
+date: 2026-02-19
 categories: "Ruby On Rails"
 tags: [Ruby On Rails, Action Controller, Programming, Software Engineer, Features, Hacks, Optimization]
 image: 'https://github.com/user-attachments/assets/ce4e54c9-b790-4ecc-83dd-f06b5e4f0e83'
