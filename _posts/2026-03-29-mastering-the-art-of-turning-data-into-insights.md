@@ -4,7 +4,7 @@ title: "Mastering the Art of Turning Data into Insights"
 date: 2026-03-29
 categories: "Data Analysis"
 tags: [Data Analysis, Data Science, Data Engineer, Insights, Big Data, Data]
-image: 'https://github.com/user-attachments/assets/10be6f25-ab9f-4256-9ff8-9113b78ddc3b'
+image: 'https://github.com/user-attachments/assets/b1ecb4a3-01ee-47ae-9833-3da739b70a90'
 ---
 
 # 🚀 From Raw Data to Powerful Decisions: Mastering the Art of Turning Data into Insights 📊✨
@@ -12,6 +12,8 @@ image: 'https://github.com/user-attachments/assets/10be6f25-ab9f-4256-9ff8-9113b
 In today’s data-driven world, **data alone is NOT power** — 👉 *the real power lies in the insights you extract from it.*
 
 You can have millions of rows of data, but if you can’t convert them into meaningful decisions, they’re just numbers sitting idle.
+
+<img width="1024" height="1536" alt="ChatGPT Image Mar 29, 2026, 10_01_33 PM" src="https://github.com/user-attachments/assets/b1ecb4a3-01ee-47ae-9833-3da739b70a90" />
 
 Let’s break down how to transform **analyzed data into actionable insights** — step by step 🔍👇
 
