@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Ruby on Rails Uncovered"
-date: 2026-03-04
+date: 2026-04-04
 categories: "Ruby On Rails"
 tags: [Ruby On Rails, Programming, Software Developer, Working, Class, MVC, Modules]
 image: 'https://github.com/user-attachments/assets/35cf7a3b-713c-44fd-9f3e-63881ab75737'
