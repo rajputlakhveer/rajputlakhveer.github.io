@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "DevOps Mastery"
-date: 2026-04-06
+date: 2026-04-05
 categories: "DevOps"
 tags: [DevOps, Software Development, Cloud Computing, Automation, CICD, Docker, Kubernetes, AWS]
 image: 'https://github.com/user-attachments/assets/455aa50a-7d70-48c0-8b75-cd3b2263544f'
