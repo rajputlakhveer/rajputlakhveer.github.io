@@ -294,10 +294,3 @@ It’s a **superpower** 🧠⚡
 💬 **Remember:**
 Genius is not born…
 It is *trained through awareness.*
-
----
-
-If you want, I can also:
-✅ Create an **infographic image** for this blog
-✅ Generate a **LinkedIn viral caption with hashtags**
-✅ Turn this into a **YouTube Shorts script 🎬**
