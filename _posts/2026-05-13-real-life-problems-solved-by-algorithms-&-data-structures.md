@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Real-Life Problems Solved by Algorithms & Data Structures"
-date: 2026-05-26
+date: 2026-05-13
 categories: "DSA"
 tags: [DSA, Data Structure, Algorithms, Problems, Algorithms, Interview, Programming, Software Development]
 image: 'https://github.com/user-attachments/assets/7b706633-12b5-40fd-af34-1752712aa96b'
