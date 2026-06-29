@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Creating the Perfect Python Library"
-date: 2026-06-30
+date: 2026-06-29
 categories: "Programming"
 tags: [Python, Library, Programming, Software Engineer, Hacks, Optimization, Coding]
 image: 'https://github.com/user-attachments/assets/703f406d-4cb0-43df-beb3-8f240d5df336'
