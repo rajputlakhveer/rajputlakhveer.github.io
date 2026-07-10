@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "AWS QuickSight Mastery"
-date: 2026-07-26
+date: 2026-07-10
 categories: "Data Science"
 tags: [AWS, QuickSight, Cloud Computing, Business Intelligence, Data Analytics, Data Visualization, Data Science, Data Engineer]
 image: 'https://github.com/user-attachments/assets/f887dd76-a00a-476f-8816-aa9100f8e6a8'
