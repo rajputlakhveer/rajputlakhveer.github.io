@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Transforming Your Money Habits"
-date: 2026-07-09
+date: 2026-08-09
 categories: "AI"
 tags: [Personal Finance, Money, Mindset, Financial Freedom, Psychology, Self Improvement]
 image: 'https://github.com/user-attachments/assets/1a38478a-8714-420a-834f-c7f64139d3d2'
