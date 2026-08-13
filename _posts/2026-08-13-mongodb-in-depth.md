@@ -4,7 +4,7 @@ title: "MongoDB in Depth"
 date: 2026-08-13
 categories: "Database"
 tags: [MongoDB, NoSQL, Database, Software Engineering, Backend Development, Programming]
-image: 'https://github.com/user-attachments/assets/10be6f25-ab9f-4256-9ff8-9113b78ddc3b'
+image: 'https://github.com/user-attachments/assets/87f848b9-6e87-49a4-97b4-5b4d83b077f9'
 ---
 
 # 🍃 MongoDB in Depth: The Complete Guide to Building Fast, Scalable & Production-Ready Applications
@@ -22,6 +22,7 @@ But using MongoDB effectively is much more than writing:
 ```javascript
 db.users.find({})
 ```
+<img width="1024" height="1536" alt="ChatGPT Image Aug 13, 2026, 08_59_40 PM" src="https://github.com/user-attachments/assets/87f848b9-6e87-49a4-97b4-5b4d83b077f9" />
 
 The real skill is knowing:
 
