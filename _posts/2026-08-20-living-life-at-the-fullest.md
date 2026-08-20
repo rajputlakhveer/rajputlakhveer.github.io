@@ -4,7 +4,7 @@ title: "Living Life at the Fullest"
 date: 2026-08-20
 categories: "Self Improvement"
 tags: [Life Lessons, Personal Growth, Mindset, Self Improvement, Leadership]
-image: 'https://github.com/user-attachments/assets/10be6f25-ab9f-4256-9ff8-9113b78ddc3b'
+image: 'https://github.com/user-attachments/assets/ee471a2e-54a7-401f-9a2a-09e8b8777b1b'
 ---
 
 # 🌅 Living Life at the Fullest: The Science, Philosophy & Psychology of a Meaningful Life
@@ -27,6 +27,9 @@ Living life to the fullest doesn't mean travelling constantly, becoming rich, pa
 It means **being fully alive while you are alive.**
 
 It means waking up with purpose, experiencing ordinary moments deeply, building meaningful relationships, taking calculated risks, learning continuously, protecting your health, creating something valuable, helping others—and being present enough to actually experience the journey.
+
+<img width="1024" height="1536" alt="ChatGPT Image Aug 20, 2026, 10_10_46 PM" src="https://github.com/user-attachments/assets/ee471a2e-54a7-401f-9a2a-09e8b8777b1b" />
+
 
 The goal isn't to squeeze more activities into every minute.
 
